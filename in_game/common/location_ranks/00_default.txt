@@ -1,4 +1,4 @@
-super_metropolis = {
+﻿super_metropolis = {
 
 	rank_modifier = {
 		local_burghers_desired_pop = 2.0
@@ -15,14 +15,14 @@ super_metropolis = {
 
 		local_pop_promotion_speed_modifier = 0.5
 
-		max_constructions_at_same_time = 3
+		max_constructions_at_same_time = 4
 
 		# 修改地方
 		local_food_capacity = 4000
 		local_population_capacity = 500
 		local_population_capacity_modifier = 1.0
 		free_building_levels = 500
-		local_max_rgo_size_modifier = 8.0'
+		local_max_rgo_size_modifier = 8.0
 		# 都市加0.5%出生率
 		local_population_growth = 0.005
 	}
@@ -34,7 +34,7 @@ super_metropolis = {
 
 	allow = {
 		location_rank = location_rank:city
-		population >= 250
+		population >= 25
 		is_province_capital = yes
         development >= 40
 		modifier:cannot_upgrade_location = no
@@ -74,7 +74,7 @@ city = {
 
 
 
-		max_constructions_at_same_time = 1
+		max_constructions_at_same_time = 2
 
 		# 修改地方
 		local_food_capacity = 2000

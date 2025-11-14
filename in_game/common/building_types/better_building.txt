@@ -1,0 +1,1579 @@
+﻿INJECT:sofa_stockade = {
+	super_metropolis = yes
+}
+
+INJECT:korean_barracks = {
+	super_metropolis = yes
+}
+
+INJECT:provincial_garrison = {
+	super_metropolis = yes
+}
+
+INJECT:royal_court = {
+	super_metropolis = yes
+}
+
+INJECT:house_of_parliament = {
+	super_metropolis = yes
+}
+
+INJECT:order_headquarters = {
+	super_metropolis = yes
+}
+
+INJECT:admiralty = {
+	super_metropolis = yes
+}
+
+INJECT:war_college = {
+	super_metropolis = yes
+}
+
+INJECT:tax_assessor = {
+	super_metropolis = yes
+}
+
+INJECT:supreme_court = {
+	super_metropolis = yes
+}
+
+INJECT:chancery = {
+	super_metropolis = yes
+}
+
+INJECT:republican_assembly = {
+	super_metropolis = yes
+}
+
+INJECT:royal_garden = {
+	super_metropolis = yes
+}
+
+INJECT:pirate_stronghold = {
+	super_metropolis = yes
+}
+
+INJECT:coastal_fort = {
+	super_metropolis = yes
+}
+
+INJECT:naval_battery = {
+	super_metropolis = yes
+}
+
+INJECT:irrigation_systems = {
+	super_metropolis = yes
+}
+
+INJECT:bridge_infrastructure = {
+	super_metropolis = yes
+}
+
+INJECT:pound_lock_canal_infrastructure = {
+	super_metropolis = yes
+}
+
+INJECT:mason = {
+	super_metropolis = yes
+}
+
+INJECT:mercury_patio = {
+	super_metropolis = yes
+}
+
+INJECT:tar_kiln = {
+	super_metropolis = yes
+}
+
+INJECT:horse_breeders = {
+	super_metropolis = yes
+}
+
+INJECT:stone_quarry = {
+	super_metropolis = yes
+}
+
+INJECT:lumber_mill = {
+	super_metropolis = yes
+}
+
+INJECT:fiber_crops_farm = {
+	super_metropolis = yes
+}
+
+INJECT:sand_pit = {
+	super_metropolis = yes
+}
+
+INJECT:bog_iron_smelter = {
+	super_metropolis = yes
+}
+
+INJECT:clay_pit = {
+	super_metropolis = yes
+}
+
+INJECT:salt_collector = {
+	super_metropolis = yes
+}
+
+INJECT:fruit_orchard = {
+	super_metropolis = yes
+}
+
+INJECT:university = {
+	super_metropolis = yes
+}
+
+INJECT:library = {
+	super_metropolis = yes
+}
+
+INJECT:confucian_school = {
+	super_metropolis = yes
+}
+
+INJECT:confucian_academy = {
+	super_metropolis = yes
+}
+
+INJECT:opera_house = {
+	super_metropolis = yes
+}
+
+INJECT:theater = {
+	super_metropolis = yes
+}
+
+INJECT:jesuit_college = {
+	super_metropolis = yes
+}
+
+INJECT:art_school = {
+	super_metropolis = yes
+}
+
+INJECT:arts_academy = {
+	super_metropolis = yes
+}
+
+INJECT:toll_castle = {
+	super_metropolis = yes
+}
+
+INJECT:local_noble_delegation = {
+	super_metropolis = yes
+}
+
+INJECT:nobles_recruitment_center = {
+	super_metropolis = yes
+}
+
+INJECT:parish_church = {
+	super_metropolis = yes
+}
+
+INJECT:clerical_archives = {
+	super_metropolis = yes
+}
+
+INJECT:guild_hall = {
+	super_metropolis = yes
+}
+
+INJECT:merchants_guild = {
+	super_metropolis = yes
+}
+
+INJECT:burgher_mansion = {
+	super_metropolis = yes
+}
+
+INJECT:artisan_guilds = {
+	super_metropolis = yes
+}
+
+INJECT:local_assembly = {
+	super_metropolis = yes
+}
+
+INJECT:pirate_haven = {
+	super_metropolis = yes
+}
+
+INJECT:festival_grounds = {
+	super_metropolis = yes
+}
+
+INJECT:local_schools = {
+	super_metropolis = yes
+}
+
+INJECT:local_newspaper = {
+	super_metropolis = yes
+}
+
+INJECT:cantonments = {
+	super_metropolis = yes
+}
+
+INJECT:grand_palace = {
+	super_metropolis = yes
+}
+
+INJECT:great_madrasa = {
+	super_metropolis = yes
+}
+
+INJECT:tibetan_great_monastery = {
+	super_metropolis = yes
+}
+
+INJECT:tower_of_belem = {
+	super_metropolis = yes
+}
+
+INJECT:fortezza_di_sant_andrea = {
+	super_metropolis = yes
+}
+
+INJECT:great_temple_of_tenochtitlan = {
+	super_metropolis = yes
+}
+
+INJECT:corporation_of_london = {
+	super_metropolis = yes
+}
+
+INJECT:grand_apartment = {
+	super_metropolis = yes
+}
+
+INJECT:sanssouci = {
+	super_metropolis = yes
+}
+
+INJECT:berlin_palace = {
+	super_metropolis = yes
+}
+
+INJECT:versailles = {
+	super_metropolis = yes
+}
+
+INJECT:imperial_halic_shipyards = {
+	super_metropolis = yes
+}
+
+INJECT:rock_of_monaco = {
+	super_metropolis = yes
+}
+
+INJECT:llotja_seda = {
+	super_metropolis = yes
+}
+
+INJECT:camara_comptos = {
+	super_metropolis = yes
+}
+
+INJECT:zwinger = {
+	super_metropolis = yes
+}
+
+INJECT:globe_theatre = {
+	super_metropolis = yes
+}
+
+INJECT:schwaz_mine = {
+	super_metropolis = yes
+}
+
+INJECT:urban_parliament_seat = {
+	super_metropolis = yes
+}
+
+INJECT:ribeira_das_naus = {
+	super_metropolis = yes
+}
+
+INJECT:papal_archives = {
+	super_metropolis = yes
+}
+
+INJECT:adm_vatican_library = {
+	super_metropolis = yes
+}
+
+INJECT:dip_vatican_library = {
+	super_metropolis = yes
+}
+
+INJECT:mil_vatican_library = {
+	super_metropolis = yes
+}
+
+INJECT:wisselbank = {
+	super_metropolis = yes
+}
+
+INJECT:bolshoi_theater = {
+	super_metropolis = yes
+}
+
+INJECT:archive_of_the_indies = {
+	super_metropolis = yes
+}
+
+INJECT:hsa_burgtor = {
+	super_metropolis = yes
+}
+
+INJECT:bodrum_castle = {
+	super_metropolis = yes
+}
+
+INJECT:forbidden_city = {
+	super_metropolis = yes
+}
+
+INJECT:chi_macau_port = {
+	super_metropolis = yes
+}
+
+INJECT:chi_missionary_building = {
+	super_metropolis = yes
+}
+
+INJECT:college_of_poets = {
+	super_metropolis = yes
+}
+
+INJECT:bibliotheca_corviniana = {
+	super_metropolis = yes
+}
+
+INJECT:hexamilion_wall = {
+	super_metropolis = yes
+}
+
+INJECT:ablaq_palace = {
+	super_metropolis = yes
+}
+
+INJECT:oma_falaj = {
+	super_metropolis = yes
+}
+
+INJECT:oma_nizwa_fort = {
+	super_metropolis = yes
+}
+
+INJECT:dutch_trade_outpost = {
+	super_metropolis = yes
+}
+
+INJECT:friesland_admiralty = {
+	super_metropolis = yes
+}
+
+INJECT:west_friesland_admiralty = {
+	super_metropolis = yes
+}
+
+INJECT:rotterdam_admiralty = {
+	super_metropolis = yes
+}
+
+INJECT:zeeland_admiralty = {
+	super_metropolis = yes
+}
+
+INJECT:amsterdam_admiralty = {
+	super_metropolis = yes
+}
+
+INJECT:schonbrunn_palace = {
+	super_metropolis = yes
+}
+
+INJECT:teatro_san_cassiano = {
+	super_metropolis = yes
+}
+
+INJECT:doges_palace = {
+	super_metropolis = yes
+}
+
+INJECT:library_of_vijayanagar = {
+	super_metropolis = yes
+}
+
+INJECT:city_of_victory = {
+	super_metropolis = yes
+}
+
+INJECT:ranganathaswamy_temple_building = {
+	super_metropolis = yes
+}
+
+INJECT:venkateswara_temple = {
+	super_metropolis = yes
+}
+
+INJECT:piazza_san_marco = {
+	super_metropolis = yes
+}
+
+INJECT:walls_of_ston = {
+	super_metropolis = yes
+}
+
+INJECT:swi_collegium_helveticum = {
+	super_metropolis = yes
+}
+
+INJECT:kastellet = {
+	super_metropolis = yes
+}
+
+INJECT:kronborg = {
+	super_metropolis = yes
+}
+
+INJECT:husuni_kubwa = {
+	super_metropolis = yes
+}
+
+INJECT:magistrato_alla_sanita = {
+	super_metropolis = yes
+}
+
+INJECT:imperial_city_of_hue = {
+	super_metropolis = yes
+}
+
+INJECT:wat_chaiwatthanaram_temple_building = {
+	super_metropolis = yes
+}
+
+INJECT:constantinople_observatory = {
+	super_metropolis = yes
+}
+
+INJECT:castel_sant_angelo = {
+	super_metropolis = yes
+}
+
+INJECT:quirinal_palace = {
+	super_metropolis = yes
+}
+
+INJECT:debere_meshwae = {
+	super_metropolis = yes
+}
+
+INJECT:lighthouse_of_alexandria = {
+	super_metropolis = yes
+}
+
+INJECT:al_azhar_madrasa = {
+	super_metropolis = yes
+}
+
+INJECT:delhi_tomb = {
+	super_metropolis = yes
+}
+
+INJECT:red_fort = {
+	super_metropolis = yes
+}
+
+INJECT:ori_portuguese_quarters = {
+	super_metropolis = yes
+}
+
+INJECT:mahmud_gawan_madrasa = {
+	super_metropolis = yes
+}
+
+INJECT:ambras_castle = {
+	super_metropolis = yes
+}
+
+INJECT:belvedere_palace = {
+	super_metropolis = yes
+}
+
+INJECT:sco_palace_of_holyroodhouse = {
+	super_metropolis = yes
+}
+
+INJECT:fra_louvre_museum = {
+	super_metropolis = yes
+}
+
+INJECT:guich_garrison = {
+	super_metropolis = yes
+}
+
+INJECT:bavarian_academy_of_sciences = {
+	super_metropolis = yes
+}
+
+INJECT:herrenchiemsee_abbey = {
+	super_metropolis = yes
+}
+
+INJECT:munich_residenz_founding = {
+	super_metropolis = yes
+}
+
+INJECT:munich_residenz_renaissance_expansion = {
+	super_metropolis = yes
+}
+
+INJECT:munich_residenz_baroque_expansion = {
+	super_metropolis = yes
+}
+
+INJECT:general_archive_of_simancas = {
+	super_metropolis = yes
+}
+
+INJECT:el_escorial_palace = {
+	super_metropolis = yes
+}
+
+INJECT:school_of_salamanca = {
+	super_metropolis = yes
+}
+
+INJECT:segovia_artillery_academy = {
+	super_metropolis = yes
+}
+
+INJECT:usa_academy_of_arts_and_sciences = {
+	super_metropolis = yes
+}
+
+INJECT:usa_philosophical_society = {
+	super_metropolis = yes
+}
+
+INJECT:usa_national_bank = {
+	super_metropolis = yes
+}
+
+INJECT:usa_national_mint = {
+	super_metropolis = yes
+}
+
+INJECT:the_cipher_secretary = {
+	super_metropolis = yes
+}
+
+INJECT:phanariot_district = {
+	super_metropolis = yes
+}
+
+INJECT:maniot_toll_guards = {
+	super_metropolis = yes
+}
+
+INJECT:bulgarian_administration_center = {
+	super_metropolis = yes
+}
+
+INJECT:jewish_district = {
+	super_metropolis = yes
+}
+
+INJECT:darussifa = {
+	super_metropolis = yes
+}
+
+INJECT:woodhenge_of_cahokia = {
+	super_metropolis = yes
+}
+
+INJECT:sevilla_bullfighting_school = {
+	super_metropolis = yes
+}
+
+INJECT:royal_audience_and_chancery = {
+	super_metropolis = yes
+}
+
+INJECT:charite_of_berlin = {
+	super_metropolis = yes
+}
+
+INJECT:trade_office = {
+	super_metropolis = yes
+}
+
+INJECT:embassy = {
+	super_metropolis = yes
+}
+
+INJECT:slave_center = {
+	super_metropolis = yes
+}
+
+INJECT:stockade = {
+	super_metropolis = yes
+}
+
+INJECT:castle = {
+	super_metropolis = yes
+}
+
+INJECT:bastion = {
+	super_metropolis = yes
+}
+
+INJECT:star_fort = {
+	super_metropolis = yes
+}
+
+INJECT:fortress = {
+	super_metropolis = yes
+}
+
+INJECT:sergeantry = {
+	super_metropolis = yes
+}
+
+INJECT:warrior_temple = {
+	super_metropolis = yes
+}
+
+INJECT:armory = {
+	super_metropolis = yes
+}
+
+INJECT:barracks = {
+	super_metropolis = yes
+}
+
+INJECT:conscription_center = {
+	super_metropolis = yes
+}
+
+INJECT:jurchen_barracks = {
+	super_metropolis = yes
+}
+
+INJECT:thema_headquarters = {
+	super_metropolis = yes
+}
+
+INJECT:city_guard = {
+	super_metropolis = yes
+}
+
+INJECT:entrepot = {
+	super_metropolis = yes
+}
+
+INJECT:trading_hub = {
+	super_metropolis = yes
+}
+
+INJECT:customs_house = {
+	super_metropolis = yes
+}
+
+INJECT:stock_exchange = {
+	super_metropolis = yes
+}
+
+INJECT:clearing_house = {
+	super_metropolis = yes
+}
+
+INJECT:market_warehouse = {
+	super_metropolis = yes
+}
+
+INJECT:funduq = {
+	super_metropolis = yes
+}
+
+INJECT:black_market = {
+	super_metropolis = yes
+}
+
+INJECT:smuggler_cove = {
+	super_metropolis = yes
+}
+
+INJECT:brothel = {
+	super_metropolis = yes
+}
+
+INJECT:pirate_tavern = {
+	super_metropolis = yes
+}
+
+INJECT:sugar_plantation = {
+	super_metropolis = yes
+}
+
+INJECT:cotton_plantation = {
+	super_metropolis = yes
+}
+
+INJECT:tobacco_plantation = {
+	super_metropolis = yes
+}
+
+INJECT:dock = {
+	super_metropolis = yes
+}
+
+INJECT:dry_dock = {
+	super_metropolis = yes
+}
+
+INJECT:shipyard = {
+	super_metropolis = yes
+}
+
+INJECT:grand_shipyard = {
+	super_metropolis = yes
+}
+
+INJECT:naval_base = {
+	super_metropolis = yes
+}
+
+INJECT:protected_harbor = {
+	super_metropolis = yes
+}
+
+INJECT:brewery = {
+	super_metropolis = yes
+}
+
+INJECT:beer_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:brewery_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:brewery_mill = {
+	super_metropolis = yes
+}
+
+INJECT:scriptorium = {
+	super_metropolis = yes
+}
+
+INJECT:printing_press_shop = {
+	super_metropolis = yes
+}
+
+INJECT:printing_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:printing_mill = {
+	super_metropolis = yes
+}
+
+INJECT:cannon_maker = {
+	super_metropolis = yes
+}
+
+INJECT:cannon_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:cannon_foundry = {
+	super_metropolis = yes
+}
+
+INJECT:cannons_factory = {
+	super_metropolis = yes
+}
+
+INJECT:cloth_guild = {
+	super_metropolis = yes
+}
+
+INJECT:cloth_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:cloth_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:textile_mill = {
+	super_metropolis = yes
+}
+
+INJECT:dyes_guild = {
+	super_metropolis = yes
+}
+
+INJECT:dyes_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:dyesworks = {
+	super_metropolis = yes
+}
+
+INJECT:dyes_mill = {
+	super_metropolis = yes
+}
+
+INJECT:fine_cloth_guild = {
+	super_metropolis = yes
+}
+
+INJECT:fine_cloth_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:fine_cloth_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:fine_cloth_mill = {
+	super_metropolis = yes
+}
+
+INJECT:hand_cannon_guild = {
+	super_metropolis = yes
+}
+
+INJECT:gun_smith = {
+	super_metropolis = yes
+}
+
+INJECT:guns_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:firearms_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:firearms_factory = {
+	super_metropolis = yes
+}
+
+INJECT:furniture_guild = {
+	super_metropolis = yes
+}
+
+INJECT:furniture_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:furniture_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:furniture_mill = {
+	super_metropolis = yes
+}
+
+INJECT:glass_guild = {
+	super_metropolis = yes
+}
+
+INJECT:glass_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:glassworks = {
+	super_metropolis = yes
+}
+
+INJECT:glass_mill = {
+	super_metropolis = yes
+}
+
+INJECT:lacquerware_guild = {
+	super_metropolis = yes
+}
+
+INJECT:lacquerware_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:tannery = {
+	super_metropolis = yes
+}
+
+INJECT:tanning_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:tannery_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:tannery_mill = {
+	super_metropolis = yes
+}
+
+INJECT:distillers_guild = {
+	super_metropolis = yes
+}
+
+INJECT:distillers_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:distiller_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:distiller_mill = {
+	super_metropolis = yes
+}
+
+INJECT:naval_supplies_guild = {
+	super_metropolis = yes
+}
+
+INJECT:naval_supplies_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:naval_supplies_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:naval_supplies_mill = {
+	super_metropolis = yes
+}
+
+INJECT:paper_guild = {
+	super_metropolis = yes
+}
+
+INJECT:paper_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:paper_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:paper_mill = {
+	super_metropolis = yes
+}
+
+INJECT:porcelain_guild = {
+	super_metropolis = yes
+}
+
+INJECT:porcelain_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:pottery_guild = {
+	super_metropolis = yes
+}
+
+INJECT:pottery_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:pottery_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:pottery_mill = {
+	super_metropolis = yes
+}
+
+INJECT:saltpeter_guild = {
+	super_metropolis = yes
+}
+
+INJECT:saltpeter_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:putrefaction_works = {
+	super_metropolis = yes
+}
+
+INJECT:putrefaction_mill = {
+	super_metropolis = yes
+}
+
+INJECT:tools_guild = {
+	super_metropolis = yes
+}
+
+INJECT:tools_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:iron_foundry = {
+	super_metropolis = yes
+}
+
+INJECT:iron_mill = {
+	super_metropolis = yes
+}
+
+INJECT:weapon_guild = {
+	super_metropolis = yes
+}
+
+INJECT:weapon_workshop = {
+	super_metropolis = yes
+}
+
+INJECT:weapon_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:weapon_factory = {
+	super_metropolis = yes
+}
+
+INJECT:winery = {
+	super_metropolis = yes
+}
+
+INJECT:winery_manufactory = {
+	super_metropolis = yes
+}
+
+INJECT:apothecary = {
+	super_metropolis = yes
+}
+
+INJECT:jewelry_guild = {
+	super_metropolis = yes
+}
+
+INJECT:steel_mill = {
+	super_metropolis = yes
+}
+
+INJECT:perfumery = {
+	super_metropolis = yes
+}
+
+INJECT:monastery = {
+	super_metropolis = yes
+}
+
+INJECT:fortress_church = {
+	super_metropolis = yes
+}
+
+INJECT:madrasa = {
+	super_metropolis = yes
+}
+
+INJECT:sufi_lodge = {
+	super_metropolis = yes
+}
+
+INJECT:orthodox_monastery = {
+	super_metropolis = yes
+}
+
+INJECT:miaphysite_monastery = {
+	super_metropolis = yes
+}
+
+INJECT:improved_charcoal_maker = {
+	super_metropolis = yes
+}
+
+INJECT:lutheran_preachers = {
+	super_metropolis = yes
+}
+
+INJECT:calvinist_preachers = {
+	super_metropolis = yes
+}
+
+INJECT:temple = {
+	super_metropolis = yes
+}
+
+INJECT:cathedral = {
+	super_metropolis = yes
+}
+
+INJECT:construction_center = {
+	super_metropolis = yes
+}
+
+INJECT:counting_house = {
+	super_metropolis = yes
+}
+
+INJECT:minting_office = {
+	super_metropolis = yes
+}
+
+INJECT:granary = {
+	super_metropolis = yes
+}
+
+INJECT:fortress_granary = {
+	super_metropolis = yes
+}
+
+INJECT:wharf = {
+	super_metropolis = yes
+}
+
+INJECT:medical_school = {
+	super_metropolis = yes
+}
+
+INJECT:lazaretto = {
+	super_metropolis = yes
+}
+
+INJECT:pest_house = {
+	super_metropolis = yes
+}
+
+INJECT:hospital = {
+	super_metropolis = yes
+}
+
+INJECT:slave_market = {
+	super_metropolis = yes
+}
+
+INJECT:marketplace = {
+	super_metropolis = yes
+}
+
+INJECT:merchants_quarters = {
+	super_metropolis = yes
+}
+
+INJECT:grand_marketplace = {
+	super_metropolis = yes
+}
+
+INJECT:commerce_center = {
+	super_metropolis = yes
+}
+
+INJECT:port_authority = {
+	super_metropolis = yes
+}
+
+INJECT:trade_company_headquarters = {
+	super_metropolis = yes
+}
+
+INJECT:trade_company_garrison = {
+	super_metropolis = yes
+}
+
+INJECT:trade_company_harbor = {
+	super_metropolis = yes
+}
+
+INJECT:trade_company_local_venture = {
+	super_metropolis = yes
+}
+
+INJECT:trade_company_foreign_influence = {
+	super_metropolis = yes
+}
+
+INJECT:trade_company_governance = {
+	super_metropolis = yes
+}
+
+INJECT:pounamou_carver = {
+	super_metropolis = yes
+}
+
+INJECT:bardic_school = {
+	super_metropolis = yes
+}
+
+INJECT:hanseatic_kontor = {
+	super_metropolis = yes
+}
+
+INJECT:hanseatic_shipwright_guild = {
+	super_metropolis = yes
+}
+
+INJECT:hanseatic_town_hall = {
+	super_metropolis = yes
+}
+
+INJECT:fondaco = {
+	super_metropolis = yes
+}
+
+INJECT:venetian_arsenal = {
+	super_metropolis = yes
+}
+
+INJECT:kurultai = {
+	super_metropolis = yes
+}
+
+INJECT:order_stronghold = {
+	super_metropolis = yes
+}
+
+INJECT:order_commandery = {
+	super_metropolis = yes
+}
+
+INJECT:banking_office = {
+	super_metropolis = yes
+}
+
+INJECT:tribes_of_galway = {
+	super_metropolis = yes
+}
+
+INJECT:copenhagen_dockyard = {
+	super_metropolis = yes
+}
+
+INJECT:caravanserai = {
+	super_metropolis = yes
+}
+
+INJECT:caravan_stop = {
+	super_metropolis = yes
+}
+
+INJECT:cinque_port = {
+	super_metropolis = yes
+}
+
+INJECT:seat_of_cardinal = {
+	super_metropolis = yes
+}
+
+INJECT:north_sea_shipyards = {
+	super_metropolis = yes
+}
+
+INJECT:galley_barracks = {
+	super_metropolis = yes
+}
+
+INJECT:janissary_barracks = {
+	super_metropolis = yes
+}
+
+INJECT:safaviyya_order_hall = {
+	super_metropolis = yes
+}
+
+INJECT:ghilman_barracks = {
+	super_metropolis = yes
+}
+
+INJECT:stannary_court = {
+	super_metropolis = yes
+}
+
+INJECT:lieutenancy = {
+	super_metropolis = yes
+}
+
+INJECT:viceroyalty = {
+	super_metropolis = yes
+}
+
+INJECT:barcelona_royal_shipyard = {
+	super_metropolis = yes
+}
+
+INJECT:uffizi = {
+	super_metropolis = yes
+}
+
+INJECT:brethren_marsh = {
+	super_metropolis = yes
+}
+
+INJECT:sofa_barracks = {
+	super_metropolis = yes
+}
+
+INJECT:cawa_barracks = {
+	super_metropolis = yes
+}
+
+INJECT:kings_manor = {
+	super_metropolis = yes
+}
+
+INJECT:polders = {
+	super_metropolis = yes
+}
+
+INJECT:telpochcalli = {
+	super_metropolis = yes
+}
+
+INJECT:calmecac = {
+	super_metropolis = yes
+}
+
+INJECT:panaqa_building = {
+	super_metropolis = yes
+}
+
+INJECT:terraces = {
+	super_metropolis = yes
+}
+
+INJECT:tambo = {
+	super_metropolis = yes
+}
+
+INJECT:incamisana = {
+	super_metropolis = yes
+}
+
+INJECT:royal_society = {
+	super_metropolis = yes
+}
+
+INJECT:royal_academy_of_arts = {
+	super_metropolis = yes
+}
+
+INJECT:peel_towers = {
+	super_metropolis = yes
+}
+
+INJECT:dun_fort = {
+	super_metropolis = yes
+}
+
+INJECT:kokufu = {
+	super_metropolis = yes
+}
+
+INJECT:gosho = {
+	super_metropolis = yes
+}
+
+INJECT:yakata = {
+	super_metropolis = yes
+}
+
+INJECT:tatara = {
+	super_metropolis = yes
+}
+
+INJECT:clan_family_shrine = {
+	super_metropolis = yes
+}
+
+INJECT:korean_gunnery_land_defense = {
+	super_metropolis = yes
+}
+
+INJECT:korean_gunnery_coastal_defense = {
+	super_metropolis = yes
+}
+
+INJECT:kremlin = {
+	super_metropolis = yes
+}
+
+INJECT:stroganov_school_of_iconic_art = {
+	super_metropolis = yes
+}
+
+INJECT:venetian_palaces = {
+	super_metropolis = yes
+}
+
+INJECT:venetian_quarter = {
+	super_metropolis = yes
+}
+
+INJECT:galata = {
+	super_metropolis = yes
+}
+
+INJECT:novodevichy_convent = {
+	super_metropolis = yes
+}
+
+INJECT:moscow_artillery_yard = {
+	super_metropolis = yes
+}
+
+INJECT:bund = {
+	super_metropolis = yes
+}
+
+INJECT:kalari = {
+	super_metropolis = yes
+}
+
+INJECT:ibadat_khana = {
+	super_metropolis = yes
+}
+
+INJECT:academy_of_sciences = {
+	super_metropolis = yes
+}
+
+INJECT:greek_latin_academy = {
+	super_metropolis = yes
+}
+
+INJECT:sukharev_tower = {
+	super_metropolis = yes
+}
+
+INJECT:the_bock_fortifications = {
+	super_metropolis = yes
+}
+
+INJECT:ruined_great_wall_of_china = {
+	super_metropolis = yes
+}
+
+INJECT:repaired_great_wall_of_china = {
+	super_metropolis = yes
+}
+
+INJECT:free_economic_society = {
+	super_metropolis = yes
+}
+
+INJECT:imperial_academy_of_arts = {
+	super_metropolis = yes
+}
+
+INJECT:moscow_orphanage = {
+	super_metropolis = yes
+}
+
+INJECT:institute_of_noble_maidens = {
+	super_metropolis = yes
+}
+
+INJECT:royal_atarazanas_seville = {
+	super_metropolis = yes
+}
+
+INJECT:alhambra = {
+	super_metropolis = yes
+}
+
+INJECT:theodosian_walls = {
+	super_metropolis = yes
+}
+
+INJECT:bey_fortress = {
+	super_metropolis = yes
+}
+
+INJECT:mamluk_barracks = {
+	super_metropolis = yes
+}
+
+INJECT:kurmina_headquarter = {
+	super_metropolis = yes
+}
+
+INJECT:great_enclosure = {
+	super_metropolis = yes
+}
+
+INJECT:great_hill_complex = {
+	super_metropolis = yes
+}
+
+INJECT:great_valley_complex = {
+	super_metropolis = yes
+}
+
+INJECT:trans_saharan_trade_outposts = {
+	super_metropolis = yes
+}
+
+INJECT:khmer_baray = {
+	super_metropolis = yes
+}
+
+INJECT:bajang_ratu = {
+	super_metropolis = yes
+}
+
+INJECT:fulani_cattle_rearing_pen = {
+	super_metropolis = yes
+}
+
+INJECT:walls_of_benin = {
+	super_metropolis = yes
+}
+
+INJECT:zazzau_walls = {
+	super_metropolis = yes
+}
+
+INJECT:eghabho_nore_mansion = {
+	super_metropolis = yes
+}
+
+INJECT:ribat = {
+	super_metropolis = yes
+}
+
+INJECT:por_feitoria = {
+	super_metropolis = yes
+}
+
+INJECT:gurgaddi = {
+	super_metropolis = yes
+}
+
+INJECT:sufi_mosque = {
+	super_metropolis = yes
+}
+
+INJECT:wali_songo_shrine = {
+	super_metropolis = yes
+}
+
+INJECT:zhixian = {
+	super_metropolis = yes
+}
+
+INJECT:seljuk_mint = {
+	super_metropolis = yes
+}
+
+INJECT:tur_kodjabashi_office = {
+	super_metropolis = yes
+}
+
+INJECT:qalat_al_mashwar = {
+	super_metropolis = yes
+}

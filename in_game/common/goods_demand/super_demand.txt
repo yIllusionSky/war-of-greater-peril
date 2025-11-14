@@ -1,4 +1,4 @@
-build_town_demand = {
+﻿REPLACE:build_town_demand = {
 	glass = 2
 	masonry = 4
 	lumber = 2
@@ -6,7 +6,7 @@ build_town_demand = {
 
 }
 
-build_city_demand = {
+REPLACE:build_city_demand = {
 	glass = 4
 	masonry = 8
 	lumber = 4

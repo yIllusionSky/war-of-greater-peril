@@ -1,0 +1,11 @@
+﻿super_metropolis_upgrade = {
+	gold = 1000000
+}
+
+REPLACE:city_upgrade = {
+	gold = 50000
+}
+
+REPLACE:town_upgrade = {
+	gold = 2500
+}

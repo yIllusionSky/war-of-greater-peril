@@ -1,4 +1,4 @@
-
+﻿
 REPLACE:expensive_food_in_location = {
 	game_data = {
 		category = location
