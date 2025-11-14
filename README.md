@@ -1,5 +1,7 @@
 # 欧陆天际线
 
+[github](https://github.com/yIllusionSky/Eurapo-Skyline)
+
 欧陆风云5增强型平衡修改mod
 
 ## 简介
