@@ -1,6 +1,6 @@
 ﻿INJECT:hospital = {
 	super_metropolis = yes
 	modifier = {
-		local_population_growth = 0.0005
+		local_population_growth = 0.001
 	}
 }
