@@ -52,6 +52,7 @@ REPLACE:province_starving = {
 		category = location
 	}
 
-	# 暂时不修改
-	# local_population_growth = -0.3
+	# 饥荒影响是原来的3倍
+	local_population_growth = -0.075
+	local_life_expectancy = -20
 }

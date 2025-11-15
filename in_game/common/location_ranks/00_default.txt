@@ -17,13 +17,12 @@
 
 		max_constructions_at_same_time = 2
 
-		# 修改地方
-		local_food_capacity = 10000
+		local_food_capacity = 4000
 		local_population_capacity = 2000
-		free_building_levels = 400
-		local_max_rgo_size_modifier = 4.0
-		# 都市加0.5%出生率
-		local_population_growth = 0.005
+		free_building_levels = 200
+		local_max_rgo_size_modifier = 0.7
+		local_monthly_food_modifier = -0.4
+		local_migration_attraction = 0.2
 	}
 
 	country_modifier = {
@@ -33,7 +32,7 @@
 
 	allow = {
 		location_rank = location_rank:city
-		population >= 100
+		population >= 250
 		is_province_capital = yes
         development >= 40
 		modifier:cannot_upgrade_location = no
@@ -76,13 +75,11 @@ city = {
 		max_constructions_at_same_time = 1
 
 		# 修改地方
-		local_food_capacity = 1000
+		local_food_capacity = 500
 		local_population_capacity = 200
 		free_building_levels = 100
-		local_max_rgo_size_modifier = 2.0
-		# 城市加0.2%出生率
-		local_population_growth = 0.002
-
+		local_max_rgo_size_modifier = 0.7
+		local_monthly_food_modifier = -0.2
 	}
 
 	country_modifier = {
@@ -114,20 +111,18 @@ town = {
 		local_burghers_desired_pop = 0.2
 		local_laborers_desired_pop = 0.2
 		local_soldiers_desired_pop = 0.1
-
 		local_nobles_desired_pop = 0.025
 		local_clergy_desired_pop = 0.05
-
 		local_max_control = 0.05
 		local_integration_speed_modifier = -0.25
 
-
-		# 城镇加0.1%出生率
-		local_population_growth = 0.001
-		local_food_capacity = 500
+		# 集镇人口增长速度最快
+		local_population_growth = 0.002
+		local_population_capacity = 100
+		local_monthly_food_modifier = 0.1
+		local_food_capacity = 250
 		local_max_rgo_size_modifier = 1.5
 		free_building_levels = 25
-		local_population_capacity = 50
 	}
 
 	country_modifier = {
@@ -154,9 +149,7 @@ rural_settlement = {
 	rank_modifier = {
 		local_max_rgo_size_modifier = 1.0
 		local_monthly_food_modifier = 0.1
-
-		# 村庄无修正
-		# local_population_growth = 0.001
+		local_population_growth = 0.001
 	}
 
 	country_modifier = {
