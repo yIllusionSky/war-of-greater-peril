@@ -35,8 +35,8 @@ INJECT:sbelligerent_vs_conciliatory = {
 
 INJECT:quality_vs_quantity = {
 	left_modifier = {
-		# 增加20%原材料产出
-		global_raw_material_output = 0.2
+		# 增加40%原材料产出
+		global_raw_material_output = 0.4
 	}
 	right_modifier = { 
 		# 增加人口年增长0.3%

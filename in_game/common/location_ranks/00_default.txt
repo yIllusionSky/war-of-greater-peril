@@ -34,7 +34,7 @@
 
 	allow = {
 		location_rank = location_rank:city
-		population >= 25
+		population >= 100
 		is_province_capital = yes
         development >= 40
 		modifier:cannot_upgrade_location = no
