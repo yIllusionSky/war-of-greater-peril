@@ -19,8 +19,7 @@
 
 		# 修改地方
 		local_food_capacity = 4000
-		local_population_capacity = 500
-		local_population_capacity_modifier = 1.0
+		local_population_capacity = 2500
 		free_building_levels = 400
 		local_max_rgo_size_modifier = 4.0
 		# 都市加0.5%出生率
@@ -78,8 +77,7 @@ city = {
 
 		# 修改地方
 		local_food_capacity = 1000
-		local_population_capacity = 200
-		local_population_capacity_modifier = 0.5
+		local_population_capacity = 400
 		free_building_levels = 100
 		local_max_rgo_size_modifier = 2.0
 		# 城市加0.2%出生率
@@ -129,8 +127,7 @@ town = {
 		local_food_capacity = 500
 		local_max_rgo_size_modifier = 1.5
 		free_building_levels = 25
-		local_population_capacity = 40
-		local_population_capacity_modifier = 0.20
+		local_population_capacity = 50
 	}
 
 	country_modifier = {

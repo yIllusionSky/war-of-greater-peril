@@ -39,8 +39,11 @@ INJECT:quality_vs_quantity = {
 		global_raw_material_output = 0.4
 	}
 	right_modifier = { 
-		# 增加人口年增长0.3%
-		global_population_growth = 0.003
+		# 增加人口年增长0.2%
+		global_population_growth = 0.002
+
+		# 增加人口容量50%
+		global_population_capacity_modifier = 0.5
 	}
 
 	opinion_importance_multiplier = 0.5
@@ -57,6 +60,9 @@ INJECT:individualism_vs_communalism = {
 	right_modifier = {
 		# 食物消耗减少10%
 		global_peasants_food_consumption = -0.1
+
+		# 增加人口容量10%
+		global_population_capacity_modifier = 0.10
 	}
 }
 
